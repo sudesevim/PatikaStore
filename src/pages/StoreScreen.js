@@ -1,7 +1,7 @@
 import React from 'react';
 import { SafeAreaView, StyleSheet, Text, Image, View, FlatList, TextInput, Dimensions } from 'react-native';
 import Card from '../components/Card/Card';
-import styles from './StoreScreen.style';
+import styles from '../styles/StoreScreen.style';
 import patiStore from '../../patistore.json';
 
 function StoreScreen({navigation}) {

@@ -5,10 +5,11 @@ const {width, height} = Dimensions.get('window');
 export default StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: 'white',
     },
     bannerText: {
         fontSize: 30,
+        color: '#e53170',
+        fontWeight: 'bold',
     },
     textInput: {
         fontSize: 20,

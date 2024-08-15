@@ -3,13 +3,13 @@ import { StyleSheet } from "react-native";
 export default StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: 'white',
+        justifyContent: 'center',
     },
-    bannerText: {
+    header: {
+        textAlign: 'center',
         fontSize: 30,
-        color: 'purple',
         fontWeight: 'bold',
         margin: 10,
-        textAlign: 'left',
+        color: '#2e2f3e',
     },
 });

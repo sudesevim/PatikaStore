@@ -1,80 +1,142 @@
-[       {
-    "id": 0,
-    "title": "Xiaomi Mi True Wireless Earbuds",
-    "imgURL":"https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
-    "price": "₺134,77",
-    "inStock": true
-},
-{
-    "id": 1, 
-    "title": "General Mobile GM 20",
-    "imgURL":"https://m.media-amazon.com/images/I/51lK00mvFaL._AC._SR180,230.jpg", 
-    "price": "₺1.810,21",
-     "inStock": true  
-    
-},
-{
-    "id": 2,
-     "title": "Philips 58PUS8505/62 The One",
-     "imgURL": "https://m.media-amazon.com/images/I/71zLCzJcXaL._AC._SR360,460.jpg", 
-     "price": "₺6.992,25", 
-     "inStock": false  
-},
-{
-    "id": 3,
-     "title": "LG 49UM7100PLB Ultra HD 4K",
-     "imgURL": "https://m.media-amazon.com/images/I/71gAldY8eGL._AC._SR360,460.jpg", 
-     "price": "₺4.614,38", 
-     "inStock": true   
-},
-{
-    "id": 4,    
-    "title": "Samsung Galaxy M31 SM-M315F",
-    "imgURL": "https://m.media-amazon.com/images/I/71mUIp9oCXL._AC._SR360,460.jpg", 
-    "price": "₺2.995,80", 
-    "inStock": true   
-},
-{
-    "id": 5, 
-    "title": "Apple AirPods Series 2",     
-    "imgURL": "https://m.media-amazon.com/images/I/51XanmiXw0L._AC._SR360,460.jpg", 
-    "price": "₺1.299,00", 
-    "inStock": true  
-},
-{
-    "id": 6, 
-    "title": "Lenovo Tab M10 Plus",
-    "imgURL": "https://m.media-amazon.com/images/I/81JR-A35D0L._AC._SR360,460.jpg",
-    "price": "₺2.496,50", 
-    "inStock": false  
-},
-{
-    "id": 7,
-    "title": "Xiaomi Redmi 20000 Mah",    
-    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/41vVdTukkgL._AC_SX522_.jpg", 
-    "price": "₺134,70",
-    "inStock": false  
-},
-{
-    "id": 8, 
-    "title": "Xiaomi Mijia Smart Home 360",    
-    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31G-rIrW9zL._AC_UL320_SR226,320_.jpg", 
-    "price": "₺269,73", 
-    "inStock": true 
-},
-{
-    "id": 9, 
-    "title": "Xiaomi Mi Box S 4K Ultra HD",   
-    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31sNKUGwNUL._AC_.jpg", 
-    "price": "₺478,53", 
-    "inStock": true   
-},
-{
-    "id": 10,
-    "title": "Haylou Solar LS-5 Smartwatch",
-    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51kfZ4W9YSL._AC_SX522_.jpg", 
-    "price": "₺296,00",
-    "inStock": true 
-}
-
+[
+    {
+        "id": 0,
+        "title": "Xiaomi Mi True Wireless Earbuds",
+        "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
+        "price": "₺134,77",
+        "inStock": true
+    },
+    {
+        "id": 1,
+        "title": "General Mobile GM 20",
+        "imgURL": "https://m.media-amazon.com/images/I/51lK00mvFaL._AC._SR180,230.jpg",
+        "price": "₺1.810,21",
+        "inStock": true
+    },
+    {
+        "id": 2,
+        "title": "Philips 58PUS8505/62 The One",
+        "imgURL": "https://m.media-amazon.com/images/I/71zLCzJcXaL._AC._SR360,460.jpg",
+        "price": "₺6.992,25",
+        "inStock": false
+    },
+    {
+        "id": 3,
+        "title": "LG 49UM7100PLB Ultra HD 4K",
+        "imgURL": "https://m.media-amazon.com/images/I/71gAldY8eGL._AC._SR360,460.jpg",
+        "price": "₺4.614,38",
+        "inStock": true
+    },
+    {
+        "id": 4,
+        "title": "Samsung Galaxy M31 SM-M315F",
+        "imgURL": "https://m.media-amazon.com/images/I/71mUIp9oCXL._AC._SR360,460.jpg",
+        "price": "₺2.995,80",
+        "inStock": true
+    },
+    {
+        "id": 5,
+        "title": "Apple AirPods Series 2",
+        "imgURL": "https://m.media-amazon.com/images/I/51XanmiXw0L._AC._SR360,460.jpg",
+        "price": "₺1.299,00",
+        "inStock": true
+    },
+    {
+        "id": 6,
+        "title": "Lenovo Tab M10 Plus",
+        "imgURL": "https://m.media-amazon.com/images/I/81JR-A35D0L._AC._SR360,460.jpg",
+        "price": "₺2.496,50",
+        "inStock": false
+    },
+    {
+        "id": 7,
+        "title": "Xiaomi Redmi 20000 Mah",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/41vVdTukkgL._AC_SX522_.jpg",
+        "price": "₺134,70",
+        "inStock": false
+    },
+    {
+        "id": 8,
+        "title": "Xiaomi Mijia Smart Home 360",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31G-rIrW9zL._AC_UL320_SR226,320_.jpg",
+        "price": "₺269,73",
+        "inStock": true
+    },
+    {
+        "id": 9,
+        "title": "Xiaomi Mi Box S 4K Ultra HD",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31sNKUGwNUL._AC_.jpg",
+        "price": "₺478,53",
+        "inStock": true
+    },
+    {
+        "id": 10,
+        "title": "Haylou Solar LS-5 Smartwatch",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51kfZ4W9YSL._AC_SX522_.jpg",
+        "price": "₺296,00",
+        "inStock": true
+    },
+    {
+        "id": 11,
+        "title": "Sony WH-1000XM4 Wireless Headphones",
+        "imgURL": "https://m.media-amazon.com/images/I/61mRU3s9K5L._AC_SL1500_.jpg",
+        "price": "₺4.299,00",
+        "inStock": true
+    },
+    {
+        "id": 12,
+        "title": "Samsung Galaxy Buds Pro",
+        "imgURL": "https://m.media-amazon.com/images/I/71LtKXJGC6L._AC_SL1500_.jpg",
+        "price": "₺999,00",
+        "inStock": true
+    },
+    {
+        "id": 13,
+        "title": "Apple MacBook Pro 16\"",
+        "imgURL": "https://m.media-amazon.com/images/I/71dT-Bk-9RL._AC_SL1500_.jpg",
+        "price": "₺24.499,00",
+        "inStock": false
+    },
+    {
+        "id": 14,
+        "title": "Huawei P40 Pro",
+        "imgURL": "https://m.media-amazon.com/images/I/71jCB4prQ9L._AC_SL1500_.jpg",
+        "price": "₺5.399,00",
+        "inStock": true
+    },
+    {
+        "id": 15,
+        "title": "Acer Predator Helios 300",
+        "imgURL": "https://m.media-amazon.com/images/I/71JmB-QQ0FL._AC_SL1500_.jpg",
+        "price": "₺11.299,00",
+        "inStock": true
+    },
+    {
+        "id": 16,
+        "title": "Microsoft Surface Pro 7",
+        "imgURL": "https://m.media-amazon.com/images/I/71KQ4W-wgPL._AC_SL1500_.jpg",
+        "price": "₺7.499,00",
+        "inStock": false
+    },
+    {
+        "id": 17,
+        "title": "GoPro Hero 9 Black",
+        "imgURL": "https://m.media-amazon.com/images/I/71EgLfPjKiL._AC_SL1500_.jpg",
+        "price": "₺3.299,00",
+        "inStock": true
+    },
+    {
+        "id": 18,
+        "title": "Jabra Elite 75t",
+        "imgURL": "https://m.media-amazon.com/images/I/71O4W5N2pYL._AC_SL1500_.jpg",
+        "price": "₺1.199,00",
+        "inStock": true
+    },
+    {
+        "id": 19,
+        "title": "Dell XPS 13",
+        "imgURL": "https://m.media-amazon.com/images/I/71d5F5GZflL._AC_SL1500_.jpg",
+        "price": "₺10.499,00",
+        "inStock": true
+    }
 ]

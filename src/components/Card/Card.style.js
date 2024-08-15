@@ -3,7 +3,7 @@ const {width,height} = Dimensions.get('window');
 
 export default StyleSheet.create({
     cardContainer:{
-        backgroundColor: '#b5b5b5',
+        backgroundColor: '#0f0e17',
         margin: 5,
         alignItems: 'center',
         borderRadius:10,
@@ -25,7 +25,7 @@ export default StyleSheet.create({
     },
     cardTitle:{
         fontSize: 20,
-        color:'black',
+        color:'#fffffe',
         fontWeight: 'bold',
         textAlign: 'left',
         width: '100%',
@@ -33,7 +33,7 @@ export default StyleSheet.create({
     cardPrice: {
         fontSize: 18, 
         fontWeight: 'bold',
-        color: 'white',   
+        color: '#ff8906',   
         width: '100%',
     },
     cardStock:{
@@ -41,7 +41,7 @@ export default StyleSheet.create({
         textAlign: 'left',
         width: '100%',
         textAlign: 'left',
-        color: '#b22222',
+        color: '#e53170',
         fontWeight: 'bold',
         fontSize: 20,
         marginTop: 2,
